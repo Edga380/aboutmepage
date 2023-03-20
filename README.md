@@ -1,7 +1,7 @@
 # Portfolio
 ### Hello :wave:
 
-My name is Edgaras. I'm from Lithuania and have been based in London for almost a decade working as a chef in a fusion asian restaurant.
+My name is Edgaras. I'm from Lithuania and have been living in London for almost a decade working as a chef in a fusion asian restaurant.
 
 I really enjoy learning coding languages and applying my new knowledge to my projects.
 
